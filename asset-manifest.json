@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Timer/static/css/main.e75ce31a.css",
+    "main.js": "/Timer/static/js/main.6a694c11.js",
+    "static/js/488.af104311.chunk.js": "/Timer/static/js/488.af104311.chunk.js",
+    "static/media/race.mp3": "/Timer/static/media/race.b459f9647e80a6861f93.mp3",
+    "index.html": "/Timer/index.html",
+    "main.e75ce31a.css.map": "/Timer/static/css/main.e75ce31a.css.map",
+    "main.6a694c11.js.map": "/Timer/static/js/main.6a694c11.js.map",
+    "488.af104311.chunk.js.map": "/Timer/static/js/488.af104311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e75ce31a.css",
+    "static/js/main.6a694c11.js"
+  ]
+}

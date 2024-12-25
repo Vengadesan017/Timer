@@ -1,4 +1,4 @@
-## timer with beep sound by vengadesan017
+## Timer with beep sound by vengadesan017
 
 
 
